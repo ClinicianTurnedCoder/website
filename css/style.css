@@ -22,6 +22,11 @@ html, body{
   text-decoration:none;
 }
 
+.container > div > a:visited {
+  color: grey;
+  text-decoration:none;
+}
+
 .container > div > a:hover {
   color: green;
   text-decoration:underline;
