@@ -12,11 +12,12 @@ html, body{
   width: 100%
   height: 50px;
   box-sizing: border-box;
-  background-color:  #009BFF;
+  background-color: #0061A0;
 }
 
 .container > div {
   font-size: 1.5em;
+  padding 10px
 }
 
 .container > div > a:link, a:visited {
