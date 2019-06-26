@@ -10,6 +10,3 @@ html, body{
   text-align: center;
   justify-content: center;
 }
-.container > div{
-  flex:1;
-}
