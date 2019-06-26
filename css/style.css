@@ -25,11 +25,11 @@ html, body{
 }
 
 .container > div > a:hover {
-  color: #004e80;
+  color: #009bff;
   text-decoration: underline;
 }
 
 .container > div > a:active {
-  color: #004e80;
+  color: #009bff;
   text-decoration: underline;
 }
