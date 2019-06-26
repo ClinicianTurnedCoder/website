@@ -16,3 +16,18 @@ html, body{
   font-size: 2em;
   text-align: center;
 }
+
+.container > a:link {
+  color: grey;
+  text-decoration:none;
+}
+
+.container > a:hover {
+  color: green;
+  text-decoration:underline;
+}
+
+.container > a:active {
+  color: green;
+  text-decoration:underline;
+}
