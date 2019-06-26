@@ -1,12 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Rubik');
 html, body{
   background-color: #e0e0e0;
-  margin: 10px;
   font-family: Rubik;
-  box-sizing: border-box;
-  height: 100%;
-  padding: 10px;
-  margin: 0px;
 }
 
 nav{
