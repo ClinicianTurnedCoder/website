@@ -9,6 +9,8 @@ html, body{
   display:flex;
   text-align: center;
   justify-content: center;
+  width: 100%
+  background-color:  #0061A0;
 }
 
 .container > div {
