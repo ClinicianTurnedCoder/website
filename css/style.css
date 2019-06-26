@@ -17,17 +17,17 @@ html, body{
   text-align: center;
 }
 
-.container > a:link {
+.container > div > a:link {
   color: grey;
   text-decoration:none;
 }
 
-.container > a:hover {
+.container > div > a:hover {
   color: green;
   text-decoration:underline;
 }
 
-.container > a:active {
+.container > div > a:active {
   color: green;
   text-decoration:underline;
 }
