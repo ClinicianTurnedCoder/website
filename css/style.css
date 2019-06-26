@@ -13,26 +13,24 @@ html, body{
 
 .container > div {
   padding: 10px;
-  font-size: 2em;
+  font-size: 1em;
   text-align: center;
 }
 
-.container > div > a:link {
+.container > div > a:link, a:visited {
   color: grey;
-  text-decoration:none;
-}
-
-.container > div > a:visited {
-  color: grey;
-  text-decoration:none;
+  text-decoration: none;
+  padding: 14px 25px;
+  display: inline-block;
+  background-color: #f44336;
 }
 
 .container > div > a:hover {
   color: green;
-  text-decoration:underline;
+  text-decoration: underline;
 }
 
 .container > div > a:active {
   color: green;
-  text-decoration:underline;
+  text-decoration: underline;
 }
