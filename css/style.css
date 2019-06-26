@@ -20,9 +20,6 @@ html, body{
 .container > div > a:link, a:visited {
   color: grey;
   text-decoration: none;
-  padding: 14px 25px;
-  display: inline-block;
-  background-color: #f44336;
 }
 
 .container > div > a:hover {
