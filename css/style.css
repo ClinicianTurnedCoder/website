@@ -2,11 +2,17 @@
 html, body{
   background-color: #e0e0e0;
   font-family: Rubik;
+  margin: 10px;
 }
 
-.container{
+.container {
   display:flex;
-  padding: 10px;
   text-align: center;
   justify-content: center;
+}
+
+.container > div {
+  padding: 10px;
+  font-size: 2em;
+  text-align: center;
 }
