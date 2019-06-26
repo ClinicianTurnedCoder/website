@@ -10,6 +10,7 @@ html, body{
   text-align: center;
   justify-content: center;
   width: 100%
+  box-sizing:border-box;
   background-color:  #0061A0;
 }
 
