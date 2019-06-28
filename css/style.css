@@ -12,7 +12,7 @@ html, body{
   height: 75px;
   box-sizing: border-box;
   background-color: #0074BF;
-  box-shadow: 40px 40px 200px -20px rgba(0, 0, 0, 0.19);
+  box-shadow: 10px 10px 25px -2px rgba(0, 0, 0, 0.61);
 }
 
 .container > div {
